@@ -56,6 +56,8 @@ namespace ControlPersonas
 
         }
 
+        int var1;
+
         public void normalizarNombre()
         {
 
